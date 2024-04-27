@@ -12,4 +12,4 @@ cd
 cd ccminer
 chmod +x arm64
 ./arm64
-clear
+
