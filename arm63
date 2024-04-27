@@ -6,7 +6,8 @@ echo " phiên bản này auto update khi có phiên bản mới của verus.io"
 echo " zalo admin: 0899717143 ---> dien alltool"
 sleep 5
 git clone https://github.com/Ngocgiau2000/arm64.git
-cd arm64
+mv arm64 arm65
+cd arm65
 cp arm64 ../arm64
 cd
 cd ccminer
