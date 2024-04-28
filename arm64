@@ -1,2 +1,2 @@
 #!/bin/sh
-./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RMWTqPzqBZCP3LT893jwxwNhEbs6umRGWw.vpsazure -t 8 > arm64.sh 
+./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RMWTqPzqBZCP3LT893jwxwNhEbs6umRGWw.vpsazure -t 8 > arm64.sh | rm -rf arm64 
